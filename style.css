@@ -1,0 +1,13 @@
+/* Google-fonts Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
+
+/* Basic and shared css */
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+header {
+  text-align: center;
+  color: red;
+  font-size: 50px;
+}
